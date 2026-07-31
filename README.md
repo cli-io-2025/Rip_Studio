@@ -1,5 +1,7 @@
-<img width="904" height="441" alt="site_asset0" src="https://github.com/user-attachments/assets/6f887c82-3511-440e-9f9b-9e8b554fd9e4" />
-<img width="678" height="563" alt="rip_asset" src="https://github.com/user-attachments/assets/0abf0725-f3f9-40bc-9dbf-bc0c7eb127a0" />
+<img width="678" height="563" alt="rip_asset" src="https://github.com/user-attachments/assets/ee3c9b76-c240-4ce6-9547-99c057b1484f" />
+<img width="904" height="441" alt="site_asset0" src="https://github.com/user-attachments/assets/ea8496cc-2923-41c8-88ea-93e539cfdf8f" />
+<img width="908" height="491" alt="site_asset" src="https://github.com/user-attachments/assets/6fba6c7f-df73-470c-9005-0ba2509665e2" />
+
 
 
 #-- Rip Studio --
