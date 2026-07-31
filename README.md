@@ -1,3 +1,4 @@
+<img width="678" height="563" alt="rip_asset" src="https://github.com/user-attachments/assets/0abf0725-f3f9-40bc-9dbf-bc0c7eb127a0" />
 #-- Rip Studio --
 
 **Rip Studio** is an all-in-one media management, disc ripping, web video downloading, torrent downloading, and media transcoding desktop tool.
